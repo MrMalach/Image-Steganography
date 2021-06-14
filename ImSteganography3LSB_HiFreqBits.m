@@ -1,10 +1,9 @@
 %%---------------------------------------
 %       Digital Image Processing
 %       ------------------------
-%            Course Project
 %         Image Steganography
 %        ----------------------
-%        Ran Malach ® 62887906
+%        Ran Malach Â® 62887906
 %%---------------------------------------
 
 %% Embed Image
